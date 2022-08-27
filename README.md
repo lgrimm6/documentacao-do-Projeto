@@ -127,4 +127,5 @@
 
 ##### chore:
 
-    Commits, Utilizado na atualização para mudanças em ferramentas, configurações e bibliotecas. Atualizações que não ocasionam em alteração no código de produção.
+    Commits, Utilizado na atualização para mudanças em ferramentas, configurações e bibliotecas.
+    Atualizações que não ocasionam em alteração no código de produção.
